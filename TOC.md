@@ -1,4 +1,4 @@
-- 关于我们
-    - [关于极客学院](about-us.md)
-    - [关于极客学院 Wiki](about-wiki.md)
+- 深度学习
+    - [作者简介](about-us.md)
+    - [第一章](about-wiki.md)
 - [联系我们](contact.md)
